@@ -1,0 +1,9 @@
+{
+    "name": "LCJesterNani",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Changes the Jester windup music to NANi by Saweetie",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
